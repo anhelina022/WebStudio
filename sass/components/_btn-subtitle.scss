@@ -1,0 +1,21 @@
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.buttons__subtitle { 
+    background: #F5F4FA;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+    color: #212121;
+    margin: 8px;
+}
+
+.buttons__subtitle:hover, .buttons__subtitle:focus {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}

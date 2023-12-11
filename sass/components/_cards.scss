@@ -1,0 +1,39 @@
+.cards {
+
+
+    &__photo {
+        width: 370px;
+        height: 294px;
+        display: flex;
+    }
+
+    &:hover {
+        
+    }
+}
+
+.title-cards {
+    display: flex;
+    width: 322px;
+    flex-direction: column;
+    color: #212121;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 1.08px;
+}
+
+.title-text-cards {
+    text-align: justify;
+    display: flex;
+    width: 322px;
+    color: #757575;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.48px;
+}

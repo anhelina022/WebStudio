@@ -16,12 +16,12 @@ a {
 }
 
 .container {
-  width: 100%;
+  width: 1600px;
   margin: 0 auto;
 }
 
 .content-container {
-  width: 100%;
+  width: 1170px;
   margin: 0 auto;
 }
 
@@ -127,8 +127,6 @@ a {
 
 .footer {
   background: #2F303A;
-  width: 1600px;
-  height: 252px;
 }
 
 .footer .content-container {
@@ -136,8 +134,9 @@ a {
 }
 
 .footer-contact {
-  margin-left: 215px;
-  margin-top: 60px;
+  width: 231px;
+  margin-right: 70px;
+  padding: 60px 0;
 }
 
 .logo {
